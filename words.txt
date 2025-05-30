@@ -1,0 +1,164 @@
+achieve - başarmak  
+adjust - ayarlamak  
+affect - etkilemek  
+apply - başvurmak  
+argue - tartışmak  
+avoid - kaçınmak  
+benefit - fayda  
+compare - karşılaştırmak  
+consider - düşünmek  
+contribute - katkıda bulunmak  
+convince - ikna etmek  
+create - oluşturmak  
+damage - zarar vermek  
+decide - karar vermek  
+define - tanımlamak  
+develop - geliştirmek  
+discuss - tartışmak  
+discover - keşfetmek  
+encourage - teşvik etmek  
+environment - çevre  
+establish - kurmak  
+explain - açıklamak  
+express - ifade etmek  
+fail - başarısız olmak  
+feature - özellik  
+follow - takip etmek  
+gain - kazanmak  
+happen - olmak (meydana gelmek)  
+improve - geliştirmek  
+include - içermek  
+influence - etki  
+inform - bilgilendirmek  
+involve - içermek  
+mention - bahsetmek  
+notice - fark etmek  
+prefer - tercih etmek  
+prepare - hazırlamak  
+prevent - önlemek  
+provide - sağlamak  
+realize - farkına varmak  
+reduce - azaltmak  
+reflect - yansıtmak  
+reject - reddetmek  
+remain - kalmak  
+remind - hatırlatmak  
+require - gerektirmek  
+respect - saygı duymak  
+share - paylaşmak  
+solve - çözmek  
+suggest - önermek  
+support - desteklemek  
+suppose - varsaymak  
+survive - hayatta kalmak  
+understand - anlamak  
+abandon - terk etmek  
+abstract - soyut  
+abundant - bol, çok  
+access - erişim  
+accommodate - yer sağlamak  
+accumulate - biriktirmek  
+accurate - doğru, kesin  
+acquire - edinmek  
+adequate - yeterli  
+adjust - ayarlamak  
+advocate - savunmak  
+affordable - uygun fiyatlı  
+allocate - tahsis etmek  
+alter - değiştirmek  
+anticipate - beklemek, ummak  
+apparent - belli, açık  
+appropriate - uygun  
+assess - değerlendirmek  
+assign - atamak  
+assume - varsaymak  
+attain - ulaşmak  
+aware - farkında  
+beneficial - faydalı  
+brief - kısa, öz  
+cease - durdurmak, sona erdirmek  
+collapse - çökmek  
+commit - işlemek, adamak  
+compensate - telafi etmek  
+compile - derlemek  
+comprehensive - kapsamlı  
+conduct - yürütmek  
+conflict - çatışma  
+considerable - dikkate değer  
+contribute - katkıda bulunmak  
+convert - dönüştürmek  
+decline - azalmak, reddetmek  
+deduce - sonuç çıkarmak  
+demonstrate - göstermek  
+derive - türetmek  
+despite - -e rağmen  
+devote - adamak  
+distinguish - ayırt etmek  
+emerge - ortaya çıkmak  
+ensure - sağlamak  
+evaluate - değerlendirmek  
+exclude - hariç tutmak  
+expose - maruz bırakmak  
+framework - yapı, çerçeve  
+illustrate - örneklemek  
+implement - uygulamak  
+imply - ima etmek  
+indicate - göstermek  
+inevitable - kaçınılmaz  
+justify - haklı göstermek  
+maintain - sürdürmek  
+obtain - elde etmek  
+overcome - üstesinden gelmek  
+participate - katılmak  
+perceive - algılamak  
+pursue - takip etmek  
+reinforce - güçlendirmek  
+require - gerektirmek  
+retain - korumak, tutmak  
+reveal - ortaya çıkarmak  
+significant - önemli  
+subsequent - sonraki  
+sufficient - yeterli  
+sustain - sürdürmek  
+tend - eğiliminde olmak  
+undergo - geçirmek (ameliyat vs.)  
+utilize - kullanmak  
+violate - ihlal etmek  
+acknowledge - kabul etmek  
+acquaint - tanıtmak, bilgi vermek  
+adjacent - bitişik  
+allegation - iddia  
+alteration - değişiklik  
+apprehend - tutuklamak, kavramak  
+arbitrary - keyfi  
+assert - ileri sürmek  
+attain - elde etmek  
+compulsory - zorunlu  
+confine - sınırlandırmak  
+contradict - çelişmek  
+conviction - inanç, mahkumiyet  
+credibility - güvenilirlik  
+deficit - açık, eksik  
+deteriorate - kötüleşmek  
+discrete - ayrı, farklı  
+disrupt - aksatmak, bozmak  
+embark - girişmek (bir işe)  
+enforce - zorla yaptırmak  
+enhance - artırmak  
+exaggerate - abartmak  
+foster - teşvik etmek  
+hamper - engellemek  
+inhibit - engellemek  
+insight - içgörü  
+integrate - bütünleşmek  
+invoke - çağırmak, başvurmak  
+legitimize - meşrulaştırmak  
+mediate - arabuluculuk yapmak  
+offset - dengelemek  
+prosper - gelişmek, zenginleşmek  
+redundant - gereksiz  
+reside - ikamet etmek  
+terminate - sonlandırmak  
+trigger - tetiklemek  
+undermine - baltalamak  
+withdraw - geri çekilmek  
