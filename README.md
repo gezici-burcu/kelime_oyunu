@@ -1,26 +1,26 @@
-# 📚 KelimeKavram
+# 📚 WordSense
 
-Tarayıcı tabanlı bir kelime tahmin oyunudur. Oyunculara rastgele kelimeler gösterilir, kullanıcılar anlamlarını tahmin ederek puan toplar.
+A browser-based word guessing game. Players are shown random words and try to guess their meanings to score points.
 
-## 🔗 Canlı Uygulama
+## 🔗 Live Demo
 
-👉 [KelimeKavram'ı GitHub Pages üzerinden oyna](https://gezici-burcu.github.io/kelime_oyunu/)
+👉 [Play KelimeKavram on GitHub Pages](https://gezici-burcu.github.io/kelime_oyunu/)
 
-## 📁 Proje Yapısı
+## 📁 Project Structure
 
-- `index.html` → Ana HTML sayfası  
-- `style.css` → Stil dosyası  
-- `words.txt` → Kelime listesi (kelime - anlam formatında)
+- `index.html` → Main HTML file  
+- `style.css` → Styling file  
+- `words.txt` → Word list (in word - meaning format)
 
-## ⚙️ Özellikler
+## ⚙️ Features
 
-- Kelime tahmin oyunu
-- LocalStorage ile skor kaydı
-- İpucu ve deneme hakları sistemi
-- Kelime ekle / sil / listele
-- Tüm verileri sıfırlama opsiyonu
+- Word guessing gameplay  
+- Score tracking via LocalStorage  
+- Hint and attempt system  
+- Add / delete / view words  
+- Reset all saved data
 
-## 💡 Kullanılan Teknolojiler
+## 💡 Technologies Used
 
 - HTML5  
 - CSS3  
@@ -30,4 +30,4 @@ Tarayıcı tabanlı bir kelime tahmin oyunudur. Oyunculara rastgele kelimeler g�
 
 ---
 
-> Bu proje, temel web teknolojileri ile uygulama geliştirme ve dağıtma sürecini öğrenmek amacıyla hazırlanmıştır.
+> This project was created to practice and demonstrate web development skills using basic web technologies.
